@@ -1,0 +1,1 @@
+startup.png,helppage.png,scorespage.png,newmenubar.png,pacmanL.png,pacmanD.png,pacmanU.png,pacmanR.png,direction.png
